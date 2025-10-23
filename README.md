@@ -1,6 +1,6 @@
 Engineering with empathy - integrating robotics, compassion, memory, and art for human flourishing.
 
-I am a compassion-driven engineering that bridges art, memory, and intelligence.
+I am a compassion-driven engineer that bridges art, memory, and intelligence.
 
 [Learning and Curiosity]
 
