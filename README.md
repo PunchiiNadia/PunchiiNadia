@@ -6,8 +6,7 @@ I am a compassion-driven engineer that bridges art, memory, and intelligence.
 
 For me, technology has always been about deepening human connection, not replacing it. My faith inspires me to use robotics and AI to serve people with compassion. When I prayed about my future, I realized engineering could be more than innovation; it could reflect God’s love in action.
 
-My mission is to integrate robotics with empathy, computer vision with memory, and data science with service. My vision is to create robots that grow alongside people, help them feel seen, supported, and loved, serve with kindness, and preserve dignity. By combining engineering with empathy, we can design systems that enhance human flourishing and reflect God’s love in tangible form. This is not only a career path but a calling.
-
+My mission is to integrate robotics with empathy, computer vision with memory, and data science with service. My dream is to create the next Doraemon, a robot that grows alongside people, understands them, and serves with compassion. My vision is to create robots that grow alongside people, help them feel seen, supported, and loved, serve with kindness, deepen human connection, and preserve dignity. By combining engineering with empathy, we can design systems that enhance human flourishing and reflect God’s love in tangible form. This is not only a career path but a calling.
 <!--
 ## Hi there 👋
 **PunchiiNadia/PunchiiNadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
