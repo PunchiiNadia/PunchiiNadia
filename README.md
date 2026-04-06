@@ -1,12 +1,7 @@
-Engineering with empathy - integrating robotics, compassion, memory, and art for human flourishing.
+I am an aspiring robotics and AI engineer learning to design human-centered systems that combine technical capability with thoughtful and empathetic interaction. My interests include computer vision, data, and robotics, particularly how these systems can support decision-making, preserve meaningful experiences, deepen human connection, and improve everyday life. At the same time, I value the role of art and design in engineering as a way to shape how people experience technology, recognizing that technology is not only about function, but also about how it communicates, feels, and connects with people. Over time, my perspective has evolved from simply exploring what technology can do to becoming more intentional about how it should be used. Guided by my faith in God, I approach engineering as a way to serve others with care, responsibility, and purpose, and I am learning to build systems that are not only useful, but also respectful of human dignity and supportive of human flourishing. My interest especially lies on building systems that can observe, learn, and assist while respecting human dignity. One direction I am exploring is companion technologies that combine practical support with emotional awareness, helping people feel seen, supported, understood, and genuinely cared for over time.
 
-I am a compassion-driven engineer that bridges art, memory, and intelligence.
+Engineering with empathy: integrating robotics, memory, and art to support human flourishing.
 
-[Learning and Curiosity]
-
-For me, technology has always been about deepening human connection, not replacing it. My faith inspires me to use robotics and AI to serve people with compassion. When I prayed about my future, I realized engineering could be more than innovation; it could reflect God’s love in action.
-
-My mission is to create two interconnected companion robots, combining practical assistance and emotional companionship through shared communication, integrating robotics with empathy, computer vision with memory, and data science with service. My dream is to create the next Doraemon, a robot that grows alongside people, understands them, and serves with compassion. My vision is to create robots that grow alongside people, help them feel seen, supported, and loved, serve with kindness, deepen human connection, and preserve dignity. By combining engineering with empathy, we can design systems that enhance human flourishing and reflect God’s love in tangible form. This is not only a career path but a calling.
 <!--
 ## Hi there 👋
 **PunchiiNadia/PunchiiNadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
